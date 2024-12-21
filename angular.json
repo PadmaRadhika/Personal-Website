@@ -15,6 +15,7 @@
           "options": {
             "outputPath": "dist/personal-website",
             "index": "src/index.html",
+            "baseHref": "/Personal-Website/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
